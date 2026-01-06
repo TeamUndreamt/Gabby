@@ -1,0 +1,5 @@
+version: "0.1"
+workspace:
+  agents_dir: agents
+  logs_dir: logs
+  memory_dir: memory

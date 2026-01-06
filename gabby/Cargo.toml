@@ -1,0 +1,7 @@
+[workspace]
+members = [
+	"libs/cli",
+	"libs/kernel",
+]
+
+resolver = "2"

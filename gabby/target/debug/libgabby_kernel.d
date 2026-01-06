@@ -1,0 +1,1 @@
+/home/pranav/Working\ Space/Gabby/gabby/target/debug/libgabby_kernel.rlib: /home/pranav/Working\ Space/Gabby/gabby/libs/kernel/src/cognition.rs /home/pranav/Working\ Space/Gabby/gabby/libs/kernel/src/lib.rs /home/pranav/Working\ Space/Gabby/gabby/libs/kernel/src/observe.rs
